@@ -1,7 +1,7 @@
 # Landing-Page
 This is a responsive website template that can be used for various purposes related to the Halloween season. It includes sections for home, about, trick or treat, new arrivals, and a newsletter, as well as a footer with different sections like 'About', 'Our Services', and 'Our Company'. The website is designed to be visually appealing and engaging for users.
 
-3Technologies Used
+#Technologies Used
 HTML
 CSS
 JavaScript
